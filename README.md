@@ -1,4 +1,4 @@
-# TORICAberry-Pi-Bico
+# TORICAberry Pi Bico
 26代機基板表面実装化のための試作  
 ### Bico素子配置
 TORICAberry Pi Bico  1st editionの素子配置は以下の通り．  
@@ -7,5 +7,5 @@ TORICAberry Pi Bico  1st editionの素子配置は以下の通り．
 <img src="images/Bico 素子配置front.png" height="200px">
 <img src="images/Bico 素子配置back.png" height="200px">  
 
-### TORICAberry Pi Bico基板データ
+### Bico基板データ
 [1st Edition 基板データ](kicad_data/1stedition)
