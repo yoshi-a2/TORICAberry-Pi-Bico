@@ -8,4 +8,4 @@ TORICAberry Pi Bico  1st editionの素子配置は以下の通り．
 <img src="images/Bico 素子配置back.png" height="200px">  
 
 ### Bico基板データ
-[1st Edition 基板データ](kicad_data/1st_edition)
+[1st Edition 基板データ](kicad_data/1stedition)
