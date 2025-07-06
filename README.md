@@ -4,8 +4,8 @@
 TORICAberry Pi Bico  1st editionの素子配置は以下の通り．  
 裏面のLEDについて，kicad上の配線のアノード，カソードが逆になっている（設計ミスです）．以下の写真内，注意書き（「SW側がGNDになるように」）の通りに配置すれば問題nothing．抵抗かキャパシタかはキロとかナノとかマイクロをみて常識的に判断してください．「no」は「No-Fit」のことで，何も実装しないことを意味します．ブリッジしないようにだけ気をつけて  
 **↓クリックで拡大↓**  
-<img src="images/Bico 素子配置front.png" height="200px">
-<img src="images/Bico 素子配置back.png" height="200px">  
+<img src="images/Bico 素子配置front.png" height="20px">
+<img src="images/Bico 素子配置back.png" height="20px">  
 
 ### Bico基板データ
 [1st Edition 基板データ](kicad_data/1stedition)
